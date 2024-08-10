@@ -1,5 +1,7 @@
 ### 1. Dataset
+<p>
 This dataset can be downloaded: https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset?resource=download
+</p>
 The dataset is split into two parts: the initial load and the delta load for testing.
 
 ### 2. Data Architecture
